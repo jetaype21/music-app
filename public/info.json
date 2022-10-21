@@ -1,0 +1,60 @@
+{
+  "categories": [
+    {
+      "category": "accoustic",
+      "route": "/accoustic",
+      "img": "/music/accoustic/accoustic.jpg",
+      "musicas": []
+    },
+    {
+      "category": "cinematic",
+      "route": "/cinematic",
+      "img": "/music/cinematic/cinematic.jpg",
+      "musicas": []
+    },
+    {
+      "category": "jazz",
+      "route": "/jazz",
+      "img": "/music/jazz/jazz.jpg",
+      "musicas": [
+        {
+          "title": "goinghigher",
+          "mp3": "/music/rock/goinghigher/media/bensound-goinghigher.mp3",
+          "infoMusic": "/music/jazz/goinghigher/info.json"
+        }
+      ]
+    },
+    {
+      "category": "rock",
+      "route": "/rock",
+      "img": "/music/rock/rock.jpg",
+      "musicas": [
+        {
+          "title": "beyondtheline",
+          "mp3": "/music/rock/beyondtheline/media/bensound-beyondtheline.mp3",
+          "infoMusic": "/music/rock/beyondtheline/info.json"
+        },
+        {
+          "title": "goinghigher",
+          "mp3": "/music/rock/goinghigher/media/bensound-goinghigher.mp3",
+          "infoMusic": "/music/rock/goinghigher/info.json"
+        },
+        {
+          "title": "happyrock",
+          "mp3": "/music/rock/happyrock/media/bensound-happyrock.mp3",
+          "infoMusic": "/music/rock/happyrock/info.json"
+        },
+        {
+          "title": "punky",
+          "mp3": "/music/rock/punky/media/bensound-punky.mp3",
+          "infoMusic": "/music/rock/punky/info.json"
+        },
+        {
+          "title": "rumble",
+          "mp3": "/music/rock/rumble/media/bensound-rumble.mp3",
+          "infoMusic": "/music/rock/rumble/info.json"
+        }
+      ]
+    }
+  ]
+}
