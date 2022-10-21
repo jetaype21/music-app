@@ -1,0 +1,25 @@
+.home__navbar {
+  height: 150px;
+}
+
+.n__item {
+  position: relative;
+
+}
+
+.n__item img {
+  border-radius: .7rem;
+  width: 184px;
+  height: 150px;
+  position: relative;
+}
+
+.n__item p {
+  text-decoration: none;
+  color: #ffff;
+  text-align: center;
+  font-size: 1.5rem;
+  position: absolute;
+  bottom: .4rem;
+  left: .5rem;
+}

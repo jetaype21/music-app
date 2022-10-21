@@ -1,0 +1,13 @@
+.main {
+  width: 95%;
+  height: 100%;
+  margin-bottom: 1rem;
+  max-width: 437px;
+  background-color: #fff;
+  border-radius: 1rem;
+  padding: 1.5em;
+  padding-left: 2.3rem;
+  box-shadow: 18px 17px 49px -10px rgba(0, 0, 0, 0.44);
+  -webkit-box-shadow: 18px 17px 49px -10px rgba(0, 0, 0, 0.44);
+  -moz-box-shadow: 18px 17px 49px -10px rgba(0, 0, 0, 0.44);
+}
